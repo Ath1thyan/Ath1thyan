@@ -1,4 +1,4 @@
-## Hi there 👋, I’m Athithyan
+# Hi there 👋, I’m Athithyan
 
 - 🎓 **B.E. in Electronics and Communication Engineering**  
 - 💻 **Aspiring Full Stack Developer**  

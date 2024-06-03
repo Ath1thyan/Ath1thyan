@@ -26,5 +26,14 @@ Let's connect and create something amazing together!
 ![Athithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ath1thyan&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath1thyan&layout=compact)
 
-[![Athithyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ath1thyan&bg_color=000000&color=ffffff&line=33b1ff&point=cadade&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
+
 

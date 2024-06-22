@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Athithyan
+# Hi there 👋, I’m [Athithyan] (https://athithyan-balaji.netlify.app/)
 
 - 🎓 **B.E. in Electronics and Communication Engineering**  
 - 💻 **Aspiring Full Stack Developer**  

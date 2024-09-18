@@ -27,6 +27,10 @@ Let's connect and create something amazing together!
 ![Athithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ath1thyan&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath1thyan&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=Ath1thyan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ath1thyan&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath1thyan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 

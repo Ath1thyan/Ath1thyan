@@ -26,7 +26,7 @@ Let's connect and create something amazing together!
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Ath1thyan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ath1thyan&theme=radical&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ath1thyan&theme=dark)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath1thyan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 

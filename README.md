@@ -24,10 +24,10 @@ Let's connect and create something amazing together!
 
 <h2>My stats✨</h2>
 
+![](https://github-readme-streak-stats.herokuapp.com?user=Ath1thyan&theme=light)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ath1thyan&theme=light&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath1thyan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Ath1thyan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=Ath1thyan&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ath1thyan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
